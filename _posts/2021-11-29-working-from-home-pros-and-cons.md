@@ -1,6 +1,6 @@
 ---
 id: 823
-title: 'Working from home &#8211; Pros and Cons'
+title: 'Working from home - Pros and Cons'
 date: '2021-11-29T21:20:20-05:00'
 author: jesse.wolcott
 layout: post

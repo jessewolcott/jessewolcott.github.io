@@ -1,6 +1,6 @@
 ---
 id: 347
-title: 'Dogs XL / Rescue Road Warriors &#8211; First Trip'
+title: 'Dogs XL / Rescue Road Warriors - First Trip'
 date: '2014-04-28T16:33:01-04:00'
 author: jesse.wolcott
 layout: post

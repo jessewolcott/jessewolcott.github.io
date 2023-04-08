@@ -1,6 +1,6 @@
 ---
 id: 453
-title: 'Getmacapps.com &#8211; Helping'
+title: 'Getmacapps.com - Helping'
 date: '2014-06-28T03:04:43-04:00'
 author: jesse.wolcott
 layout: post

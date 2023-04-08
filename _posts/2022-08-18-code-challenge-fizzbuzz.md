@@ -1,6 +1,6 @@
 ---
 id: 837
-title: 'Code Challenge &#8211; FizzBuzz'
+title: 'Code Challenge - FizzBuzz'
 date: '2022-08-18T02:14:21-04:00'
 author: jesse.wolcott
 layout: post

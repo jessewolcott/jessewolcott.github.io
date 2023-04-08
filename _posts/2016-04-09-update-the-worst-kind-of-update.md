@@ -1,6 +1,6 @@
 ---
 id: 651
-title: 'Update &#8211; The worst kind of update'
+title: 'Update - The worst kind of update'
 date: '2016-04-09T16:47:31-04:00'
 author: jesse.wolcott
 layout: post

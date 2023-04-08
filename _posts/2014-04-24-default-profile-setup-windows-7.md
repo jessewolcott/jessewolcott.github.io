@@ -1,6 +1,6 @@
 ---
 id: 341
-title: 'Default Profile Setup &#8211; Windows 7'
+title: 'Default Profile Setup - Windows 7'
 date: '2014-04-24T13:12:49-04:00'
 author: jesse.wolcott
 layout: post

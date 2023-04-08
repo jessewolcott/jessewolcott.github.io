@@ -1,6 +1,6 @@
 ---
 id: 115
-title: 'You online &#8211; Your Website!'
+title: 'You online - Your Website!'
 date: '2013-05-29T21:52:00-04:00'
 author: jesse.wolcott
 layout: post

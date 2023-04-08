@@ -1,6 +1,6 @@
 ---
 id: 310
-title: 'Check-in &#8211; Christmas!'
+title: 'Check-in - Christmas!'
 date: '2013-12-27T21:22:19-05:00'
 author: jesse.wolcott
 layout: post

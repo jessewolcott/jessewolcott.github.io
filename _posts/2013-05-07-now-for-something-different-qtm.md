@@ -1,6 +1,6 @@
 ---
 id: 77
-title: 'Now for something different&#8230; QTM?'
+title: 'Now for something different - QTM?'
 date: '2013-05-07T21:18:19-04:00'
 author: jesse.wolcott
 layout: post

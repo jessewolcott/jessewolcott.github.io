@@ -1,6 +1,6 @@
 ---
 id: 844
-title: 'PSCustomObject &#8211; Concept'
+title: 'PSCustomObject - Concept'
 date: '2023-01-18T23:27:16-05:00'
 author: jesse.wolcott
 layout: post

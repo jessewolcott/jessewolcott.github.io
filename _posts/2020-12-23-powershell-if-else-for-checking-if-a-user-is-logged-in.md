@@ -1,6 +1,6 @@
 ---
 id: 819
-title: 'Powershell&ndash; If/else for checking if a user is logged in'
+title: 'Powershell - If/else for checking if a user is logged in'
 date: '2020-12-23T16:45:12-05:00'
 author: jesse.wolcott
 layout: post

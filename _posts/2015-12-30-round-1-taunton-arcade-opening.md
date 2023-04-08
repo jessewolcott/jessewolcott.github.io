@@ -1,6 +1,6 @@
 ---
 id: 630
-title: 'Round 1 Taunton &#8211; Arcade Opening'
+title: 'Round 1 Taunton - Arcade Opening'
 date: '2015-12-30T01:23:19-05:00'
 author: jesse.wolcott
 layout: post

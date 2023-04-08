@@ -1,6 +1,6 @@
 ---
 id: 834
-title: 'Tanium&#8217;s REST / Powershell Documentation is bad'
+title: 'Tanium's REST / Powershell Documentation is bad'
 date: '2022-05-23T21:49:50-04:00'
 author: jesse.wolcott
 layout: post

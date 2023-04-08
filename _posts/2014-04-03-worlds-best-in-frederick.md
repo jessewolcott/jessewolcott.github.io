@@ -1,6 +1,6 @@
 ---
 id: 337
-title: 'Worlds best&#8230; in Frederick?'
+title: 'Worlds best - in Frederick?'
 date: '2014-04-03T16:13:05-04:00'
 author: jesse.wolcott
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 353
-title: 'United States Postal Service &#8211; Failure'
+title: 'United States Postal Service - Failure'
 date: '2014-05-09T15:38:36-04:00'
 author: jesse.wolcott
 layout: post
