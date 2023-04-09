@@ -29,9 +29,9 @@ Presumptions:
 16. In your ```_config.yaml```, above the build settings, enter ```paginate: 5```. This will paginate every 5 posts. You can change this to your liking. 
 17. In your site's directory, you should see ```index.markdown```. Rename this file to ```index.html``` and add the following code AFTER the existing info (below the last line of the "front matter", which is that section at the top.)
 
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+    ---
+    # Feel free to add content and custom Front Matter to this file.
+    # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
     layout: home
     ---
@@ -62,10 +62,6 @@ Presumptions:
     </div>
 
 18. Ok, we are getting somewhere now. The site is paginated, but still shows all the rest of the posts below. If we take a look at your index in Step 17, you'll see that we are leaning on ```layout: home```. That means that we are pulling layouts from the theme. If you are using the minima theme that is installed by default with Jekyll, as I was, you'll need to update this layout. Thankfully, its easy! Head over to the theme's folder, which is installed in ```C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems\minima-2.5.1\_layouts``` on my computer. Open up ```home.html``` in your text editor and comment out the part that displays the posts. It might look something like this: 
-    
-    ---
-    layout: default
-    ---
     
     <div class="home">
       {%- if page.title -%}
