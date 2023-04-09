@@ -20,11 +20,13 @@
 
 title: Jesse was here.
 email: jesse@jessewolcott.com
+Author: Jesse Wolcott
 description: >- # this means to ignore newlines until "baseurl:"
   This blog contains my thoughts and narratives. Please try not to take them too seriously.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jessewolcott
+linkedin: jessewolcott
 
 paginate: 10
 
