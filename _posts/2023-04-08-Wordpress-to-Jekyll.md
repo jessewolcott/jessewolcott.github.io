@@ -28,76 +28,76 @@ Presumptions:
 15. In your site's directory, find "Gemfile". Underneath ```gem "jekyll-feed", "~> 0.12"```, create a new line and put ```gem "jekyll-paginate"```
 16. In your ```_config.yaml```, above the build settings, enter ```paginate: 5```. This will paginate every 5 posts. You can change this to your liking. 
 17. In your site's directory, you should see ```index.markdown```. Rename this file to ```index.html``` and add the following code AFTER the existing info (below the last line of the "front matter", which is that section at the top.)
-```
+
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
----
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
+    layout: home
+    ---
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      <p class="author">
+        <span class="date">{{ post.date }}</span>
+      </p>
+      <div class="content">
+        {{ post.content }}
+      </div>
+    {% endfor %}
+    
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      {% else %}
+        <span class="previous">Previous</span>
+      {% endif %}
+      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      {% else %}
+        <span class="next ">Next</span>
+      {% endif %}
+    </div>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-```
 18. Ok, we are getting somewhere now. The site is paginated, but still shows all the rest of the posts below. If we take a look at your index in Step 17, you'll see that we are leaning on ```layout: home```. That means that we are pulling layouts from the theme. If you are using the minima theme that is installed by default with Jekyll, as I was, you'll need to update this layout. Thankfully, its easy! Head over to the theme's folder, which is installed in ```C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems\minima-2.5.1\_layouts``` on my computer. Open up ```home.html``` in your text editor and comment out the part that displays the posts. It might look something like this: 
-```
----
-layout: default
----
+    
+    ---
+    layout: default
+    ---
+    
+    <div class="home">
+      {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+      {%- endif -%}
+    
+      {{ content }}
+    <!--
+      {%- if site.posts.size > 0 -%}
+        <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+        <ul class="post-list">
+          {%- for post in site.posts -%}
+          <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </li>
+          {%- endfor -%}
+        </ul>
+    
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+      {%- endif -%}-->
+    
+    </div>
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-<!--
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}-->
-
-</div>
-```
 19. Rebuild your site , and see that we have successfully paginated. 
 20. Now, you can build your site using ```jekyll build```, and copy ```_sites``` to your web host (don't forget your WordPress media!) and you're good to go. If you're using GitHub Pages, check out the section at the bottom.
 
