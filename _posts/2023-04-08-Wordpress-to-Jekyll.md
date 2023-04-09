@@ -1,8 +1,8 @@
 ---
-title: 'Wordpress to Jekyll'
+title: 'Wordpress to Jekyll (with bonus Github Pages info)'
 layout: post
 ---
-# Wordpress to Hugo or Jekyll (with bonus Github Pages info)
+After paying another too-high hosting bill, I heard a dear friend mention that he had moved his sites to AWS to minimize cost. I've hosted my site for ~12 years as a full-fledged Wordpress install, and while that has been ok, it definitely is overkill. I have used various methods to post, including blogging software that has gone EOL, and engines that convert markdown to wordpress. All of them left something to be desired. I have been writing nearly everything at work in markdown, from meeting notes, to release notes, to project plans, and it seems like MD is here to stay. Time to move, now that I have 11 months of hosting to do it! GitHub Pages is free, and I get to use markdown. Lets do it!
 
 Presumptions:
 - Windows with admin access
