@@ -30,7 +30,7 @@ The next day, Quincy was on the ground level, and I went upstairs to shower. I a
 
 He certainly figured out how soft beds are, right away.
 
-![20160227 221257675 iOS](/assets/img/2016/04/20160227_221257675_iOS.jpg")
+![20160227 221257675 iOS](/assets/img/2016/04/20160227_221257675_iOS.jpg)
 
 I’m being fairly selective about who gets him. In my world, if you have a dog that can’t do steps, you lift him up the steps. It’s a no-brainer. This dog is too into his people to not sleep near you, he’d cry, a lot. Heartbroken dogs are not OK in my book! His life would be demonstrably better in a rancher home too, but carrying him everywhere is an option. I want this guy to have a good life, at least as good as he has here, and if I say so myself, he’s got it pretty good.
 
