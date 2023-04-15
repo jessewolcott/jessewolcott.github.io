@@ -3,10 +3,9 @@ layout: post
 title: Wordpress To Jekyll, Pt2 - The Assets
 author: jesse.wolcott
 ---
+Ok, you've got your website moved over to GitHub pages, and now you need to move your content from Wordpress over to GitHub Pages. If you are using this as a personal blog, it seems very reasonable to need to include attachments, pictures, etc. Thankfully, there is a super straightforward way to sort that out! When you first migrate your site over to GitHub you may notice that your images and media are still working. Thats because its still linking to your old webhost!
 
 **This is part 2 of a multi-part series covering migrating from Wordpress to Jekyll and GitHub Pages. [Part 1 is here]({% post_url 2023-04-08-Wordpress-to-Jekyll %})**
-
-Ok, you've got your website moved over to GitHub pages, and now you need to move your content from Wordpress over to GitHub Pages. If you are using this as a personal blog, it seems very reasonable to need to include attachments, pictures, etc. Thankfully, there is a super straightforward way to sort that out! When you first migrate your site over to GitHub you may notice that your images and media are still working. Thats because its still linking to your old webhost!
 
 1. Curse at the wordpress-to-jekyll exporter. This is important, as you will want to warm up for when you do it later.
 2. Create a folder in your repository called "assets"
