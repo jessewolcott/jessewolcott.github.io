@@ -14,6 +14,6 @@ My cheap Chinese knock-off Arduino ethernet shield came today!
 
 The code works well, but the defining of the mac address is something I’ll need to work out…
 
-![](https://www.jessewolcott.com/wp-content/uploads/2013/06/wpid-Screenshot_6_7_13_7_52_PM.png)
+![](/assets/img/2013/06/wpid-Screenshot_6_7_13_7_52_PM.png)
 
 Going to try to get this thing tweeting tonight… Hope OAUTH cooperates!

@@ -24,7 +24,7 @@ And I don’t mean to be that guy. I will likely go pro in Workflowy if it conti
 
 So, what **would** I do to improve it? There are a few things that could be baseline features, or pro features. Without knowing what the backend is, I can only speculate, and hope. Let’s say we have a Workflowy doc (Spoilers: we do).
 
-[![image](https://www.jessewolcott.com/wp-content/uploads/2013/06/image_thumb.png "image")](https://www.jessewolcott.com/wp-content/uploads/2013/06/image.png)
+![image](/assets/img/2013/06/image.png)
 
 ## Email Submission
 

@@ -71,6 +71,6 @@ Now, just press enter and start typing. At the end of your document, type the fo
 
 So, you’re document should look like this:
 
-[![Screenshot_071213_035716_PM](https://www.jessewolcott.com/wp-content/uploads/2013/07/Screenshot_071213_035716_PM_thumb.jpg "Screenshot_071213_035716_PM")](https://www.jessewolcott.com/wp-content/uploads/2013/07/Screenshot_071213_035716_PM.jpg)
+![Screenshot_071213_035716_PM](/assets/img/2013/07/Screenshot_071213_035716_PM.jpg)
 
 Press Build and View (F6 on windows), and check it out. You made a LaTeX document!

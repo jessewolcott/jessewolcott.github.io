@@ -14,6 +14,6 @@ This evening, I got around to messing with the Arduino again, but tonight, I mad
 
 I think I need to buy a wireless shield or an ethernet shield. I need to figure out the twitter / email / SMS libraries, and I can’t do that without network connectivity.
 
-![](https://www.jessewolcott.com/wp-content/uploads/2013/05/wpid-Screen-Shot-2013-05-30-at-10.15.11-PM.png)
+![](/assets/img/2013/05/wpid-Screen-Shot-2013-05-30-at-10.15.11-PM.png)
 
 I really like messing around with this. Its teaching me a lot.

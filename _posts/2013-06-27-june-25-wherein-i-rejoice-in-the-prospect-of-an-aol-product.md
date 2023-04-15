@@ -16,11 +16,11 @@ Feedly had a good thing going, honestly. I started to dig the card format, begru
 
 [Digg](http://www.digg.com) and [AOL](http://www.aol.com) (did I just link to AOL on my website?) are allegedly coming out with news readers as well. For some reason, I got ultra hyped about AOL’s reader. I figured “No one will want to use this, so I can waltz into the beta!” Well, not so.
 
-[![Screenshot_062613_084328_AM](https://www.jessewolcott.com/wp-content/uploads/2013/06/Screenshot_062613_084328_AM_thumb.jpg "Screenshot_062613_084328_AM")](https://www.jessewolcott.com/wp-content/uploads/2013/06/Screenshot_062613_084328_AM.jpg)
+![Screenshot_062613_084328_AM](/assets/img/2013/06/Screenshot_062613_084328_AM.jpg)
 
 Overwhelming interest? Well, that’s odd… I guess everyone else got ultra hyped about the prospect of AOL dumping so much energy and so many resources into a product that it HAS to be good, as well. After 2 long days (because the internet makes people impatient), I got this:
 
-[![Screenshot_062613_084631_AM](https://www.jessewolcott.com/wp-content/uploads/2013/06/Screenshot_062613_084631_AM_thumb.jpg "Screenshot_062613_084631_AM")](https://www.jessewolcott.com/wp-content/uploads/2013/06/Screenshot_062613_084631_AM.jpg)
+![Screenshot_062613_084631_AM](/assets/imgs/2013/06/Screenshot_062613_084631_AM.jpg)
 
 Well I guess demand wasn’t THAT overwhelming. Its pretty nice, so far. I’m having an issue with automatically-marking-things-as-read-when-I-scroll, but it does work in “Full” view, which most closely resembles Google Reader anyhow.
 

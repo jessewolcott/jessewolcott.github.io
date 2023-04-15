@@ -14,7 +14,7 @@ So, did you know that the command unrar does recursion? I suspect I knew it woul
 
 Anyhow, navigate to the topmost directory that you can, and run the following command:
 
-> unrar e -r \*.rar
+```unrar e -r \*.rar ```
 
 And it’ll just do it. Leaves all the rar files and parts behind… Wonder how we could clean that up… Thoughts for another day.
 

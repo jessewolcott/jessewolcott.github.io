@@ -19,8 +19,3 @@ Just a 5k this time, though. Actually, it looks pretty neat, [if you check out t
 Maybe I’ll chill out after that. Dave is running [the Charles Street 12 miler](http://www.charlesst12.com), which, while looking fun and promising a sweet hoodie sweatshirt, is $85 American dollars. I don’t know if I can hang with THAT.
 
 Still have to figure out exactly what half marathon we’re going to be doing. I’m sorta jazzed about the [Gasparilla OMFG Clusterbang of races](http://www.tampabayrun.com/) in February, which includes not only a half-marathon, but a much needed break from the cold weather, at that point. That’ll be an interesting weekend… 15k and a 5k on Saturday, then eating all the food possible, then a half-marathon and an 8k on Sunday? Just sadistic enough to be the best thing ever.
-
-I don’t usually care for Adele, but Darren Hotchkiss put her music to a gabber beat which turned it up a few needed notches. A-like-this:
-
-<center><iframe allowfullscreen="" frameborder="0" height="315" loading="lazy" src="http://www.youtube.com/embed/QgsSiSKzopc" width="560"></iframe></center>  
-Oh goodness. [![nice-stack](https://www.jessewolcott.com/wp-content/uploads/2013/06/nice-stack.gif)](https://www.jessewolcott.com/wp-content/uploads/2013/06/nice-stack.gif)

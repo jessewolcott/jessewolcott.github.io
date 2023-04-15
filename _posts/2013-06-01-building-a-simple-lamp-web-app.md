@@ -16,7 +16,7 @@ I saw this as an opportunity to build a web app. I dusted off my VMware fusion a
 
 Just picked a few packages during the NetInstall, LAMP, Basic Server, and OpenSSH server.
 
-![](https://www.jessewolcott.com/wp-content/uploads/2013/06/wpid-Screen-Shot-2013-06-01-at-2.26.21-PM.png)
+![](/assets/img/2013/06/wpid-Screen-Shot-2013-06-01-at-2.26.21-PM.png)
 
 So after the install, I minimized the VM and went and ate an apple. For what its worth, Fuji apples are not as good as Gala.
 
@@ -26,13 +26,13 @@ After I did that, I made two php files, one to display the search bar form, and 
 
 The search form page:
 
-![](https://www.jessewolcott.com/wp-content/uploads/2013/06/wpid-Screen-Shot-2013-06-01-at-4.02.47-PM.png)
+![](/assets/img/2013/06/wpid-Screen-Shot-2013-06-01-at-4.02.47-PM.png)
 
 So you can see, all this really does is create the form, and set the name “keyname.”
 
 The search page does all the heavy lifting:
 
-![](https://www.jessewolcott.com/wp-content/uploads/2013/06/wpid-Screen_Shot_2013-06-01_at_4.04.43_PM.png)
+![](/assets/img/2013/06/wpid-Screen_Shot_2013-06-01_at_4.04.43_PM.png)
 
 And I say “heavy lifting,” even though its very small. So, the first lines say where the database is, how to connect, and which table we’re even looking at.
 
