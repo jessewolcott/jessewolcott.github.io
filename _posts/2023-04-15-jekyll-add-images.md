@@ -2,6 +2,7 @@
 layout: post
 title: Wordpress To Jekyll, Pt2 - The Assets
 author: jesse.wolcott
+date: 2023-04-15 10:00:00 -04:00
 ---
 Ok, you've got your website moved over to GitHub pages, and now you need to move your content from Wordpress over to GitHub Pages. If you are using this as a personal blog, it seems very reasonable to need to include attachments, pictures, etc. Thankfully, there is a super straightforward way to sort that out! When you first migrate your site over to GitHub you may notice that your images and media are still working. Thats because its still linking to your old webhost!
 
