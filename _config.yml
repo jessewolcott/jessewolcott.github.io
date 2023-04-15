@@ -30,6 +30,12 @@ linkedin_username: jessewolcott
 
 paginate: 10
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Build settings
 theme: minima
 # Minima date format
