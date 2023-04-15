@@ -16,7 +16,8 @@ I received an email on November 11 from the foster coordinator of Lab Rescue LRC
 
 The report from the temporary foster said that he was amazing. Here’s some pictures.
 
-![NewImage](https://www.jessewolcott.com/wp-content/uploads/2015/11/NewImage.png "NewImage.png")![NewImage](https://www.jessewolcott.com/wp-content/uploads/2015/11/NewImage1.png "NewImage.png")
+![NewImage](/assets/img/2015/11/NewImage.png)
+![NewImage](/assets/img/2015/11/NewImage1.png)
 
 We showed up at the Towson Vet on Friday, November 13, 2015 (ooo Friday the 13th, 2spooky), and after petting a deaf / blind dog of some kind (which, if you know me, dogs that are infirm, senior, or disabled basically are my kryptonite) the Vet came out to talk to us. Now, I appreciate the curt, forward nature of an older, grizzled vet, but this guy took it a bit far. He calls out the window “What fool takes Gizmo?” And Laura and I look at each other and say “Us?”
 
@@ -42,8 +43,26 @@ December 18, 2015 edit: Here are some more pictures (after the jump). I probably
 
 The chest hair is 100% real, and a jessewolcott.com exclusive, enjoy.
 
-![20151127 144952000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151127_144952000_iOS.jpg "20151127_144952000_iOS.jpg")![20151127 145450000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151127_145450000_iOS.jpg "20151127_145450000_iOS.jpg")![20151127 151019000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151127_151019000_iOS.jpg "20151127_151019000_iOS.jpg")
-
-![IMG 3102](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3102.jpg "IMG_3102.JPG")
-
-![FullSizeRender](https://www.jessewolcott.com/wp-content/uploads/2015/12/FullSizeRender.jpg "FullSizeRender.jpg")![IMG 3063](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3063.jpg "IMG_3063.JPG")![IMG 3082](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3082.jpg "IMG_3082.JPG")![IMG 3087](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3087.jpg "IMG_3087.JPG")![IMG 3128](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3128.jpg "IMG_3128.JPG")![IMG 3146](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3146.jpg "IMG_3146.JPG")![IMG 3154](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3154.jpg "IMG_3154.JPG")![IMG 3155](https://www.jessewolcott.com/wp-content/uploads/2015/12/IMG_3155.jpg "IMG_3155.JPG")![20151123 184115000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151123_184115000_iOS.jpg "20151123_184115000_iOS.jpg")![20151123 154124645 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151123_154124645_iOS.jpg "20151123_154124645_iOS.jpg")![20151121 164120620 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151121_164120620_iOS.jpg "20151121_164120620_iOS.jpg")![20151120 225956213 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151120_225956213_iOS.jpg "20151120_225956213_iOS.jpg")![20151120 193508410 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151120_193508410_iOS.jpg "20151120_193508410_iOS.jpg")![20151120 000815161 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151120_000815161_iOS.jpg "20151120_000815161_iOS.jpg")![20151119 214901526 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151119_214901526_iOS.jpg "20151119_214901526_iOS.jpg")![20151115 050208464 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151115_050208464_iOS.jpg "20151115_050208464_iOS.jpg")![20151115 004700760 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151115_004700760_iOS.jpg "20151115_004700760_iOS.jpg")![20151114 231348986 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151114_231348986_iOS.jpg "20151114_231348986_iOS.jpg")![20151114 154317958 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151114_154317958_iOS.jpg "20151114_154317958_iOS.jpg")
+![20151127 144952000 iOS](/assets/img/2015/12/20151127_144952000_iOS.jpg)
+![20151127 145450000 iOS](/assets/img/2015/12/20151127_145450000_iOS.jpg)
+![20151127 151019000 iOS](/assets/img/2015/12/20151127_151019000_iOS.jpg)
+![IMG 3102](/assets/img/2015/12/IMG_3102.jpg)
+![FullSizeRender](/assets/img/2015/12/FullSizeRender.jpg)
+![IMG 3063](/assets/img/2015/12/IMG_3063.jpg)
+![IMG 3082](/assets/img/2015/12/IMG_3082.jpg)
+![IMG 3087](/assets/img/2015/12/IMG_3087.jpg)
+![IMG 3128](/assets/img/2015/12/IMG_3128.jpg)
+![IMG 3146](/assets/img/2015/12/IMG_3146.jpg)
+![IMG 3154](/assets/img/2015/12/IMG_3154.jpg)
+![IMG 3155](/assets/img/2015/12/IMG_3155.jpg)
+![20151123 184115000 iOS](/assets/img/2015/12/20151123_184115000_iOS.jpg)
+![20151123 154124645 iOS](/assets/img/2015/12/20151123_154124645_iOS.jpg)
+![20151121 164120620 iOS](/assets/img/2015/12/20151121_164120620_iOS.jpg)
+![20151120 225956213 iOS](/assets/img/2015/12/20151120_225956213_iOS.jpg)
+![20151120 193508410 iOS](/assets/img/2015/12/20151120_193508410_iOS.jpg)
+![20151120 000815161 iOS](/assets/img/2015/12/20151120_000815161_iOS.jpg)
+![20151119 214901526 iOS](/assets/img/2015/12/20151119_214901526_iOS.jpg)
+![20151115 050208464 iOS](/assets/img/2015/12/20151115_050208464_iOS.jpg)
+![20151115 004700760 iOS](/assets/img/2015/12/20151115_004700760_iOS.jpg)
+![20151114 231348986 iOS](/assets/img/2015/12/20151114_231348986_iOS.jpg)
+![20151114 154317958 iOS](/assets/img/2015/12/20151114_154317958_iOS.jpg)

@@ -25,4 +25,4 @@ We use [Blue Ridge Veterinary Blood Bank](http://brvbb.com/). The process is pre
 
 They also get a sweet bandana and cookies like crazy. If your dog is in pretty good health, check out the site. Help the puppies!
 
-![Photo](https://www.jessewolcott.com/wp-content/uploads/2014/06/photo.jpg "photo.JPG")
+![Photo](/assets/img/2014/06/photo.jpg)

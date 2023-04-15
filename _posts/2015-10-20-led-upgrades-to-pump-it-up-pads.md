@@ -17,7 +17,7 @@ I’ve cleaned one side of the pads, ordered some parts, and did some planning, 
 
 The old ones look like this. They have a silly little inverter and a dust guard and the base is made from wood. These things are completely useless, and they’re fragile and ultimately a waste.
 
-![DSCF0233](https://www.jessewolcott.com/wp-content/uploads/2015/10/DSCF02331.jpg "DSCF0233.JPG")
+![DSCF0233](/assets/img/2015/10/DSCF02331.jpg)
 
 The process is very easy. I looked at [this video from OMG Kon!](https://www.youtube.com/watch?v=Uk9bfifA9Xg) and ordered 10 of the LED strips from [superbrightleds.com](superbrightleds.com). The part number is LSMCC-CW4X3-LP and the link is [here](https://www.superbrightleds.com/moreinfo/led-accent-lighting/lsmcc-series-constant-current-smd-led-sign-module/980/2393/). I actually ordered 18, because we’re going to convert PJ’s DDR 573 machine to these as well. The shipping was ~$5, and it came in about a week.
 
@@ -25,7 +25,7 @@ Once you’ve gotten your pad open, remove the entire wood piece that holds the 
 
 On your pump cab, the white wire is ground, and the yellow is positive. Give your pads a good cleaning and vacuuming while you’re in there! Mount your LED using the supplied adhesive directly to the metal.
 
-![DSCF0237](https://www.jessewolcott.com/wp-content/uploads/2015/10/DSCF0237.jpg "DSCF0237.JPG")
+![DSCF0237](/assets/img/2015/10/DSCF0237.jpg)
 
 Check them out!
 

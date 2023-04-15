@@ -15,10 +15,10 @@ I did another transport yesterday. It is really a great experience… If you hav
 
 I met a dog, Ryder, who basically wanted to be AS CLOSE AS POSSIBLE to me. He was absolutely adorable!
 
-![10505463 10204147092221368 7611304859761554501 n](https://www.jessewolcott.com/wp-content/uploads/2014/07/10505463_10204147092221368_7611304859761554501_n.jpg "10505463_10204147092221368_7611304859761554501_n.jpg")
+![10505463 10204147092221368 7611304859761554501 n](/assets/img/2014/07/10505463_10204147092221368_7611304859761554501_n.jpg)
 
 Additionally, I actually transported a Tibetan Mastiff (maybe.. who knows) named Kobu. This dog looked like a lion, and his head was ridiculously massive. He absolutely could NOT understand how to lay down on my back seat. In the picture below, he had it sorted, but he spent an hour writhing around and falling off the seat. It was hilarious and pathetic.
 
-![IMG 1677](https://www.jessewolcott.com/wp-content/uploads/2014/07/IMG_1677.jpg "IMG_1677.jpg")
+![IMG 1677](/assets/img/2014/07/IMG_1677.jpg)
 
 Anyhow, if you’d like to get involved, let me know. We can always use more drivers!

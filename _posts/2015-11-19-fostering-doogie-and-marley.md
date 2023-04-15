@@ -14,13 +14,13 @@ categories:
 
 I received an email on Friday, 10/17/2015, about a bonded pair of pups that needed a foster. They were called “DOOGIE/MO” and “MARLEY” in the system. I have a giant crate, but we needed another so I ran out and bought another. We expected the boys on 10/19, but they were apparently stricken with kennel cough, so they had to stay at Towson Veterinary Hospital for a few more days.
 
-![Untitled 1 100 Layer 1 RGB 8](https://www.jessewolcott.com/wp-content/uploads/2015/11/Untitled-1___100___Layer_1__RGB_8___.png "Untitled-1___100___Layer_1__RGB_8___.png")
+![Untitled 1 100 Layer 1 RGB 8](/assets/img/2015/11/Untitled-1___100___Layer_1__RGB_8___.png)
 
 To say these dudes were cute is an understatement. Laura and I are not really into having two dogs, long term, so we’ve not really experienced with “brothers” or a bonded pair at all. It is amazing to watch their codependence. I told you I bought the other crate, well these kids didn’t need it. Marley (the chocolate lab) would actually cry and bark if he was separated into a different crate than Doogie. It was really something.
 
 When we received the transport of these boys, they smelled like kennel… Really badly. So Dave and I took them to Dogma in Canton, because I like lifted tubs, and warm water, and I’ll pay for the privilege of not freezing my butt off bathing two dogs in the cold. They got back to our place and crashed HARD for about 2 days. So sleepy.
 
-![DSCF0243](https://www.jessewolcott.com/wp-content/uploads/2015/11/DSCF0243.jpg "DSCF0243.JPG")
+![DSCF0243](/assets/img/2015/11/DSCF0243.jpg)
 
 They were pretty cool. Marley could do this thing where he was so flexible and long-legged that he could scratch his head with his back legs without sitting down. It was awesome.
 

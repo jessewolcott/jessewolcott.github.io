@@ -19,7 +19,7 @@ After Gizmo left, it became pretty aggressively clear that I can’t be alone in
 
 So I head over to Towson Veterinary hospital, leash in hand, and say “I’m here for Midnight”. There is no fanfare (like with Gizmo) and no warnings or anything, just a few moments later, a wild bucking bronco appears in the waiting room, choking himself on my leash which has been used as a slip lead. For about 20 seconds, I try to put the harness on him, before giving up, as a totally useless pursuit. The hapless vet tech looks at me struggling and says “do you want a collar or something” and i’m like “yes, please, for gods sake”. So we get a collar, and i wrestle him into the car, and its all good. In addition to several other things, I learned that I can’t make it to Towson and back in a lunch break.
 
-![20151208 182632291 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151208_182632291_iOS.jpg "20151208_182632291_iOS.jpg")
+![20151208 182632291 iOS](/assets/img/2015/12/20151208_182632291_iOS.jpg)
 
 Got him home and he was obviously very strong, and not trained well. He’d sit if you had his full attention, though! Additionally, he was house-trained, in that he didn’t 1 or 2 in the house. Midnight was a special boy, very playful, exceptionally cuddly. He had tape on his tail, because he has “Happy Tail”, and believe me, if you caught a tail wag, it hurt!
 
@@ -29,4 +29,13 @@ We had a couple interested in Midnight the second night we had him. They were in
 
 A week came and went with no hits, and then the flood gates opened, and we got 3 hits in 24 hours. Some folks with 2 other dogs called us, and we set up the hot date, and they met and went home with him. He loves playing with their 3 year old Chocolate lab, and they’re working with a dog behavior specialist to figure him out around cats, and to calm him down. Happy endings 🙂 More pics after the jump.
 
-![20151219 013458000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151219_013458000_iOS.png "20151219_013458000_iOS.png")![20151218 234226931 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151218_234226931_iOS.jpg "20151218_234226931_iOS.jpg")![20151215 220514000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151215_220514000_iOS.jpg "20151215_220514000_iOS.jpg")![20151214 201055000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151214_201055000_iOS.jpg "20151214_201055000_iOS.jpg")![20151213 160030511 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151213_160030511_iOS.jpg "20151213_160030511_iOS.jpg")![20151212 222001163 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151212_222001163_iOS.png "20151212_222001163_iOS.png")![20151212 032301000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151212_032301000_iOS.jpg "20151212_032301000_iOS.jpg")![20151209 190641899 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151209_190641899_iOS.jpg "20151209_190641899_iOS.jpg")![20151209 043803781 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151209_043803781_iOS.jpg "20151209_043803781_iOS.jpg")![20151209 043800347 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/12/20151209_043800347_iOS.jpg "20151209_043800347_iOS.jpg")
+![20151219 013458000 iOS](/assets/img/2015/12/20151219_013458000_iOS.png)
+![20151218 234226931 iOS](/assets/img/2015/12/20151218_234226931_iOS.jpg)
+![20151215 220514000 iOS](/assets/img/2015/12/20151215_220514000_iOS.jpg)
+![20151214 201055000 iOS](/assets/img/2015/12/20151214_201055000_iOS.jpg)
+![20151213 160030511 iOS](/assets/img/2015/12/20151213_160030511_iOS.jpg)
+![20151212 222001163 iOS](/assets/img/2015/12/20151212_222001163_iOS.png)
+![20151212 032301000 iOS](/assets/img/2015/12/20151212_032301000_iOS.jpg)
+![20151209 190641899 iOS](/assets/img/2015/12/20151209_190641899_iOS.jpg)
+![20151209 043803781 iOS](/assets/img/2015/12/20151209_043803781_iOS.jpg)
+![20151209 043800347 iOS](/assets/img/2015/12/20151209_043800347_iOS.jpg)

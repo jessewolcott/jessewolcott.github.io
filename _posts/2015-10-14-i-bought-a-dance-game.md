@@ -33,19 +33,19 @@ Several hours later (through Fredericksburg, through Richmond, and onward, into 
 
 So this place is a full-on arcade, redemption and everything, but, as malls are doing, its apparent that the real estate rates are plummeting, because this guy has a HUGE amount of storage there. Anyhow, there sits my machine, neglected.
 
-![20151011 141302000 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/10/20151011_141302000_iOS.jpg "20151011_141302000_iOS.jpg")
+![20151011 141302000 iOS](/assets/img/2015/10/20151011_141302000_iOS.jpg)
 
 We played a quick game on it, and Eric told me it was in bad shape. My side was fine, I think he might have been negging but who knows. Eric is distracted by a shiny thing (two Virtual-On machines for sale) and I’m left to make this decision. It hits me, all of a sudden, that I’m about to spend a lot of money on something that is really, really stupid in the long run. But I like it. And its cheap ($650). Some great quotes from the previous owner, Alex, include “This is the most money this thing has made. Probably more than its made in the last 5 years” and “They don’t even play one song. They put a token in, start a song, and walk away.” So I buy it.
 
 We load it in the truck, which, let me tell you, is horrendous. Here is me and Spencer mean mugging.
 
-![20151011 144357545 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/10/20151011_144357545_iOS.jpg "20151011_144357545_iOS.jpg")
+![20151011 144357545 iOS](/assets/img/2015/10/20151011_144357545_iOS.jpg)
 
 You may have noticed that the truck is a military humvee. It is.
 
-![20151011 151635352 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/10/20151011_151635352_iOS.jpg "20151011_151635352_iOS.jpg")
+![20151011 151635352 iOS](/assets/img/2015/10/20151011_151635352_iOS.jpg)
 
-![20151011 151531487 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/10/20151011_151531487_iOS.jpg "20151011_151531487_iOS.jpg")
+![20151011 151531487 iOS](/assets/img/2015/10/20151011_151531487_iOS.jpg)
 
 I was nearly late to my wife’s birthday dinner because of a dance game. We got back to Fairfax to get my car around 3:15, and it became evident that we’d never make it to Baltimore and get this thing unloaded. Eric suggested that he come to my house on Monday to take care of this thing, and so away he went… With my dear dance game in the back of his truck.
 
@@ -53,8 +53,8 @@ Laura’s birthday dinner is at Kobe in White Marsh, so I struggle through dinne
 
 Fast forward to the next day, and my neck is killing me, but Eric says he’ll be here tonight, (Monday, October 12, 2015) at 4PM. He shows up at 6:30, and decides, as if it was nothing, we’re going to take the monitor out because reasons.
 
-![20151012 223515766 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/10/20151012_223515766_iOS.jpg "20151012_223515766_iOS.jpg")
+![20151012 223515766 iOS](/assets/img/2015/10/20151012_223515766_iOS.jpg)
 
 The monitor removed, the computer removed, the amp removed, the pads detached, we THEN carry the machine down my steps. It wasn’t that bad, just awkward. Heavy and awkward. Nick, Steph, Eric and I got this goddamned thing into my house. So it’s here. Its missing a lot, it is in desperate need of a cleaning. But its playable!
 
-![20151013 005945623 iOS](https://www.jessewolcott.com/wp-content/uploads/2015/10/20151013_005945623_iOS.jpg "20151013_005945623_iOS.jpg")
+![20151013 005945623 iOS](/assets/img/2015/10/20151013_005945623_iOS.jpg)

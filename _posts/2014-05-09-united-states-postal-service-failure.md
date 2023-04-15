@@ -18,17 +18,17 @@ So, if you’re getting a group together for anything… A child’s birthday pa
 
 1\. Create a form using [Google Drive](http://drive.google.com) with 3 required fields: Name, RSVP (Going or Not), and total number of people you’re bringing. Now, of course, this could be adjusted to accommodate a wedding (since bringing 9 people to a wedding is rude) by saying something like “Will you be bringing a spouse or partner?” or something like that.
 
-![Screen Shot 2014 05 09 at 9 01 19 AM](https://www.jessewolcott.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-09-at-9.01.19-AM.png "Screen Shot 2014-05-09 at 9.01.19 AM.png")
+![Screen Shot 2014 05 09 at 9 01 19 AM](/assets/img/2014/05/Screen-Shot-2014-05-09-at-9.01.19-AM.png)
 
 2\. At the top of the form, click “Choose Response Destination.” The software will default to a new spreadsheet, with the same name as the form. This is fine, click “Create”.
 
 3\. Click on “View Live Form”. Copy the full URL and head over to [QR Stuff ](http://www.qrstuff.com) and generate the QR code. Click “Download.” Boom!
 
-![Qrcode 22213695](https://www.jessewolcott.com/wp-content/uploads/2014/05/qrcode.22213695.png "qrcode.22213695.png")
+![Qrcode 22213695](/assets/img/2014/05/qrcode.22213695.png)
 
 4\. Now, you can drop this into whatever invite media you’ve chosen, be it snail mail, or electronic. I’d also give a nice, short URL to access it for people who have no idea what a QR code is. I used Pages.app to create this little invite (from a template, too), which can be printed and mailed, or emailed.
 
-![Screen Shot 2014 05 09 at 9 31 30 AM](https://www.jessewolcott.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-09-at-9.31.30-AM.png "Screen Shot 2014-05-09 at 9.31.30 AM.png")
+![Screen Shot 2014 05 09 at 9 31 30 AM](/assets/img/2014/05/Screen-Shot-2014-05-09-at-9.31.30-AM.png)
 
 There. Finished. Now all the tracking can be done easily.
 

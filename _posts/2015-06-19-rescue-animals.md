@@ -14,7 +14,7 @@ Now, full disclosure. I understand that a lot of my blog posts are about animals
 
 That said, I get a lot of emails that report the whereabouts and happenings of animals in the area. Trust me, if you have any doubts that humanity is spiraling out of control, rescue work will reinforce that. I got an email from one of the rescues about this dog:
 
-![NewImage](https://www.jessewolcott.com/wp-content/uploads/2015/06/NewImage.png "NewImage.png")
+![NewImage](/assets/img/2015/06/NewImage.png)
 
 His name is Junior. He is 14 years old, and has been with his owner since he was 6 weeks old. How did the rescue get him? His owner called the local humane society to say he wants “to get rid of the dog” since he got a divorce and has no time for the dog. No time for the dog.
 

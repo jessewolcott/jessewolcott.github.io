@@ -22,4 +22,4 @@ I began to think… What about roasting my own almonds? I bet Old Bay almonds wo
 
 I made Nacho Cheese almonds too. They’re pretty good, as well!
 
-![IMG 6242](https://www.jessewolcott.com/wp-content/uploads/2014/06/IMG_6242.jpeg "IMG_6242.jpeg")
+![IMG 6242](/assets/img/2014/06/IMG_6242.jpeg)

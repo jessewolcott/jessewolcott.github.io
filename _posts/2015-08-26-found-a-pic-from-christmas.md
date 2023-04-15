@@ -12,4 +12,4 @@ categories:
 
 RIP buddy, still miss you!
 
-![Ganon1](https://www.jessewolcott.com/wp-content/uploads/2015/08/ganon1.jpg "ganon1.jpg")
+![Ganon1](/assets/img/2015/08/ganon1.jpg)

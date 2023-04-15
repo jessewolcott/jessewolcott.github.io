@@ -12,7 +12,7 @@ categories:
 
 My dog was terminally ill. He passed away in my arms this evening.
 
-![20140603092221 cafba990 me](https://www.jessewolcott.com/wp-content/uploads/2015/03/20140603092221-cafba990-me.png "20140603092221-cafba990-me.png") My first real post on this blog was about him: [https://www.jessewolcott.com/i-got-a-dog/ ](https://www.jessewolcott.com/i-got-a-dog/) ![20140603092225 a7cfecc7 me](https://www.jessewolcott.com/wp-content/uploads/2015/03/20140603092225-a7cfecc7-me.png "20140603092225-a7cfecc7-me.png")
+![20140603092221 cafba990 me](/assets/img/2015/03/20140603092221-cafba990-me.png) My first real post on this blog was about him. ![20140603092225 a7cfecc7 me](/assets/img/2015/03/20140603092225-a7cfecc7-me.png)
 
 We both grew up with Labs, so I searched for “Lab Rescue” and found [Lab Rescue LRCP](http://lab-rescue.org), and went through the application and interview process, which we, apparently, passed. The interview process was pretty hilarious, including questions like “What do you intend to get out of a dog?” and “What do you expect from a dog?” (My answers are “A buddy?” and “Be cute and occasionally catch a ball?” if you want to know).
 
@@ -28,7 +28,7 @@ The following Monday saw work come and go, and after work, Laura and I were dres
 
 So, Laura and I got Ganon on July 16, 2012.
 
-![July 16 2012](https://www.jessewolcott.com/wp-content/uploads/2015/03/july-16-2012.jpg "july 16 2012.jpg")
+![July 16 2012](/assets/img/2015/03/july-16-2012.jpg)
 
 It was horrible. I’m not going to lie and blow smoke. I suppose we thought having a dog would be… easier? Somehow? I don’t know what we expected. He was jumpy, he was nervous, he didn’t trust us. We were used to the calm, cool, collected dogs that our parents had raised from puppies; we didn’t see the hard part. We didn’t know that a dog growling while he played wasn’t outright aggression. We didn’t know that you can’t get in a strange dogs face when they’re sleeping, having been in a shelter, you have to earn that trust.
 
@@ -38,7 +38,7 @@ Laura is a teacher, which I’ve mentioned elsewhere, so she was home a lot duri
 
 Laura didn’t immediately take to him. I will credit Ganon for bringing my wife and I together in a profound way… I also totally agree that a dog is a great first step towards children, but more in the mental capacity. Both of us really struggled to accept the responsibilities that we now had. It wasn’t long until we were both totally smitten, though. I’d get home, and the dog was hype to see me. See below:
 
-![August 15](https://www.jessewolcott.com/wp-content/uploads/2015/03/august-15.jpg "august 15.jpg")
+![August 15](/assets/img/2015/03/august-15.jpg)
 
 In the late summer and early autumn of 2012, I had to travel a considerable amount for work, first to San Antonio for nearly a week, then to South Carolina in September, October, and November. The biggest revelation of these trips was how much my world revolved around my wife and dog. I’ll not say that my love for my wife has ever changed, but with people, speaking on the phone, seeing each other in video chat, the distance can be shortened greatly using technology. After all, I love my wife because she’s my wife, not because she’s fuzzy. A relationship with a dog is very physical, cuddles, petting, lean against. You can’t replicate that away from home, no matter how hard you try.
 
@@ -46,15 +46,15 @@ For a short time, when we first got Ganon, we tried to crate him during the day 
 
 Time went on fairly routinely. We struggled with some food allergy stuff because Ganon, throughout his life with us, scratched himself in the Fall and Winter. Might have been allergies or just dry skin, we’ll never know. Thanks to this scratching, he endured some pretty horrible hematoma in his ears, which left him with a seriously scar-tissued right ear. We often talk for our dog (its weird, i know). We called it his cauliflower ear (because thats what fighters get, and its the same problem). This was the first real visit to the vet.
 
-![Jesse Wolcott](https://www.jessewolcott.com/wp-content/uploads/2015/03/Jesse_Wolcott.png "Jesse_Wolcott.png")
+![Jesse Wolcott](/assets/img/2015/03/Jesse_Wolcott.png)
 
 Mid-2013 saw my first foray into volunteer work. I just do transport Rescue Road Warriors and all kinds of stuff with Dogs XL now. It was because of Ganon though. I solidified my beliefs about dogs with him.
 
 In June, 2014, we went to Ocean City, and thanks to our friends Matt and Amanda, were able to stay in their in-laws house, and bring Ganon. As you can see, “Uncle Matt” loved Ganon so much.
 
-![Matt](https://www.jessewolcott.com/wp-content/uploads/2015/03/matt.jpg "matt.jpg") There is a section of the bay that is accessible from a rec center, and we took Dexter (Matt and Amanda’s yellow lab) and Ganon to swim and play catch in the bay. We had a very long leash on Ganon, but we were worried because we never really trusted him off leash; he is too curious. He swam out to the ball and came back in, limping. We thought we were in for a trip to the Ocean City Emergency Vet… when a small crab unhooked itself from Ganon’s paw. Pathetic! We cracked up. Dexter and Ganon spent a lot of time together.
+![Matt](/assets/img/2015/03/matt.jpg) There is a section of the bay that is accessible from a rec center, and we took Dexter (Matt and Amanda’s yellow lab) and Ganon to swim and play catch in the bay. We had a very long leash on Ganon, but we were worried because we never really trusted him off leash; he is too curious. He swam out to the ball and came back in, limping. We thought we were in for a trip to the Ocean City Emergency Vet… when a small crab unhooked itself from Ganon’s paw. Pathetic! We cracked up. Dexter and Ganon spent a lot of time together.
 
-![WetG](https://www.jessewolcott.com/wp-content/uploads/2015/03/wetG.jpg "wetG.jpg")
+![WetG](/assets/img/2015/03/wetG.jpg)
 
 Ganon was so loved wherever he went. He had an energetic goofy demeanor that endeared him to people. Thats the part I’ll miss the most.
 
