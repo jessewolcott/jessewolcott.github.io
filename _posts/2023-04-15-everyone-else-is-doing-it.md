@@ -16,13 +16,13 @@ I will list a collection of sites at the end of this article that I used to assi
 - I will be avoiding Azure in favor of AWS at all costs!
 
 1. Create a new repo on GitHub or wherever you store your code projects. Clone it onto your computer, and open VSCode in that folder.
-2. Install Python however you'd like. Windows Store works well, and ```winget install python``` works too. You can also head over to (https://www.python.org) and find your download if you'd like to do a system install.
+2. Install Python however you'd like. Windows Store works well, and ```winget install python``` works too. You can also head over to [](https://www.python.org) and find your download if you'd like to do a system install.
 3. Open your terminal (as admin if windows) and run ```python --version``` and verify that your version matches what you just installed.
 4. Install the python package manager (PIP) by running the following: ```python -m pip install -U pip```
 5. Install the openai package by running the following: ```pip install openai```
-6. Install the gradio package by running the following: ```pip install gradio```. Gradio is a front-end for demos, check it out here: (https://gradio.app/)
-7. Head over to (https://platform.openai.com/signup) and sign up for a free account. 
-8. Navigate to the API keys page, here: (https://platform.openai.com/account/api-keys), and create a new secret key. Create a text file in your folder called "keys.py" and put your secret in there like so (take note of the single quotes): ```apptoken = 'yourkeygoesinhere'```.
+6. Install the gradio package by running the following: ```pip install gradio```. Gradio is a front-end for demos, check it out here: [](https://gradio.app/)
+7. Head over to [](https://platform.openai.com/signup) and sign up for a free account. 
+8. Navigate to the API keys page, here: [](https://platform.openai.com/account/api-keys), and create a new secret key. Create a text file in your folder called "keys.py" and put your secret in there like so (take note of the single quotes): ```apptoken = 'yourkeygoesinhere'```.
 9. Create a file in your folder called ".gitignore". Inside of that file, put your keyfile in there(just put keys.py on the first line and hit save), so that it won't be uploaded to GitHub for the world to see. 
 10. Create a file in VSCode and call it "app.py". Put the following code in that file (this is lifted directly from beebom.com, fully recognized, we are adding more content later- All i did was move the keys). 
 
