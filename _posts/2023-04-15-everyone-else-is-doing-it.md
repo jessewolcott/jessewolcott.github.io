@@ -55,14 +55,14 @@ gradio.Interface(fn=chatbot, inputs=inputs, outputs=outputs, title="AI Bot",
              theme="compact").launch(share=True)
 ```
 
-11. Back in your terminal, run your fancy new python script by running ```python "Path\to\app.py```
+11. Back in your terminal, run your fancy new python script by running ```python "Path\to\app.py"```
 12. When that runs, you'll see some URLs. You can play with your bot by going to one of those sites, like this one: http://127.0.0.1:7860. Its done! Woo! Lets dig in!
 ![Chatbot Lives!](/assets/img/2023/04/aichatbot1.png)
 13. Commit and push your GitHub repo (and make sure that it sees your .gitignore, you don't want the internet using your key!)
 
 In your ```app.py```, you can change a couple of things, but the neat and easy one is the first prompt. In the example, you can see that we set the tone of the convo with "You are a helpful and kind AI Assistant.". Play around with that sentence and see if you can get it to do other things. Additionally, pay attention to the terminal. If you hit your limit on AI calls, it will tell you. 
 
-I had fun building this, and it didn't take too long. I need to find something cool to do with it!
+I had fun building this, and it didn't take too long. I need to find something cool to do with it! I have not fulfilled my goal of using AWS, its just a thing running on my computer.
 
 https://github.com/jessewolcott/ChatBot
 
