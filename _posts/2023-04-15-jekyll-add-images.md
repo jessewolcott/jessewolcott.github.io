@@ -16,7 +16,7 @@ Ok, you've got your website moved over to GitHub pages, and now you need to move
 ![vscode](/assets/img/2023/04/vscode1.png)
 6. If there are thumbnails, the URL is REALLY misformed. What you need to know when looking at these is that this is the proper format for an image:
     ```![vscode](/assets/img/2023/04/vscode1.png)```
-7. After piling through all of your posts, probably deleting a few if they were cringey, you're good. Before you commit, you will probably want to clean up your images folder to remove all the thumbnails. You can use this gist to do that: [Link to Gist](http://www.github.com/jessewolcott)
-8. After the thumbnail cleanup, you may want to remove all the empty folders for cleanliness sake. You can use this gist to do that: [Link to Gist](http://www.github.com/jessewolcott)
+7. After piling through all of your posts, probably deleting a few if they were cringey, you're good. Before you commit, you will probably want to clean up your images folder to remove all the thumbnails. You can use this gist to do that (set your local repo in the script): [Link to Gist](https://gist.github.com/jessewolcott/35af044b46897eefcc3c2fbb5de759a3)
+8. After the thumbnail cleanup, you may want to remove all the empty folders for cleanliness sake. You can use this gist to do that: [Link to Gist](https://gist.github.com/jessewolcott/3ea411ca745730f9b085ea6fd8d8af00)
 
 Next up, we'll worry about DNS. I took this opportunity to go through my posts and make sure that nothing looked out of place. There were a few wayward gross HTML bits that I cleaned up, and a I'm certain a few characters are malformed. It will all work itself out! 
