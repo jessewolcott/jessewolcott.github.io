@@ -12,7 +12,11 @@ categories:
 
 My dog was terminally ill. He passed away in my arms this evening.
 
-![20140603092221 cafba990 me](/assets/img/2015/03/20140603092221-cafba990-me.png) My first real post on this blog was about him. ![20140603092225 a7cfecc7 me](/assets/img/2015/03/20140603092225-a7cfecc7-me.png)
+![20140603092221 cafba990 me](/assets/img/2015/03/20140603092221-cafba990-me.png) 
+
+My first real post on this blog was about him.
+
+![20140603092225 a7cfecc7 me](/assets/img/2015/03/20140603092225-a7cfecc7-me.png)
 
 We both grew up with Labs, so I searched for “Lab Rescue” and found [Lab Rescue LRCP](http://lab-rescue.org), and went through the application and interview process, which we, apparently, passed. The interview process was pretty hilarious, including questions like “What do you intend to get out of a dog?” and “What do you expect from a dog?” (My answers are “A buddy?” and “Be cute and occasionally catch a ball?” if you want to know).
 

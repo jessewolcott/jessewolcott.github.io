@@ -12,4 +12,4 @@ categories:
 
 In case you wondered…
 
-![Koreanpadconnector](https://www.jessewolcott.com/wp-content/uploads/2017/05/koreanpadconnector.png "koreanpadconnector.png")
+![Koreanpadconnector](/assets/img/2017/05/koreanpadconnector.png)

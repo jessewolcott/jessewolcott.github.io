@@ -16,9 +16,9 @@ Quincy might just be my heart dog. We received him on leap day, 2/29/2016, and t
 
 You can see how thin he was at intake. Notice the pits behind his eyes. Still looks like SUCH a happy boy, though!
 
-![20160312 130031000 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160312_130031000_iOS.jpg "20160312_130031000_iOS.jpg")
+![20160312 130031000 iOS](/assets/img/2016/04/20160312_130031000_iOS.jpg)
 
-![20160312 130040000 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160312_130040000_iOS.jpg "20160312_130040000_iOS.jpg")
+![20160312 130040000 iOS](/assets/img/2016/04/20160312_130040000_iOS.jpg)
 
 Truth be told, I saw his picture a bunch of times. Now, you all know my predilection towards black dogs. I have a major thing for old, black dogs. If the dog is injured or needs me, that is TWICE as true, not an exaggeration. I feel like fostering or hospice fostering (hospicetering? When you have them and they stay until they pass) senior or injured dogs is an incredibly noble calling, one that involves a strength that is not common, and I’m not sure I have. I saw the foster coordinator saying “MUST GET OUT OF THE KENNEL!”. Mind you, we’ve had Midnight and Bella in the time he’s been in the shelter.
 
@@ -30,29 +30,30 @@ The next day, Quincy was on the ground level, and I went upstairs to shower. I a
 
 He certainly figured out how soft beds are, right away.
 
-![20160227 221257675 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160227_221257675_iOS.jpg "20160227_221257675_iOS.jpg")
+![20160227 221257675 iOS](/assets/img/2016/04/20160227_221257675_iOS.jpg")
 
 I’m being fairly selective about who gets him. In my world, if you have a dog that can’t do steps, you lift him up the steps. It’s a no-brainer. This dog is too into his people to not sleep near you, he’d cry, a lot. Heartbroken dogs are not OK in my book! His life would be demonstrably better in a rancher home too, but carrying him everywhere is an option. I want this guy to have a good life, at least as good as he has here, and if I say so myself, he’s got it pretty good.
 
 Loads more pics after the jump, as usual.
 
-![20160301 021814748 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160301_021814748_iOS.jpg "20160301_021814748_iOS.jpg")
+![20160301 021814748 iOS](/assets/img/2016/04/20160301_021814748_iOS.jpg)
 
 I took him to the store in Hanover, and he just hangs out. He loves everyone.
 
-![20160311 232304779 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160311_232304779_iOS.jpg "20160311_232304779_iOS.jpg")
+![20160311 232304779 iOS](/assets/img/2016/04/20160311_232304779_iOS.jpg)
 
-![20160311 102736000 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160311_102736000_iOS.png "20160311_102736000_iOS.png")
+![20160311 102736000 iOS](/assets/img/2016/04/20160311_102736000_iOS.png)
 
-![20160315 150152300 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160315_150152300_iOS.jpg "20160315_150152300_iOS.jpg")
+![20160315 150152300 iOS](/assets/img/2016/04/20160315_150152300_iOS.jpg)
 
 I even meme’d him.
 
-![20160324 172508000 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/04/20160324_172508000_iOS.png "20160324_172508000_iOS.png")
+![20160324 172508000 iOS](/assets/img/2016/04/20160324_172508000_iOS.png)
 
 We took him to an adoption event on 4/10/2016. He loved everyone there, but everyone kept calling him old 🙁
 
-![IMG 4655](https://www.jessewolcott.com/wp-content/uploads/2016/04/IMG_4655.jpg "IMG_4655.JPG")![IMG 0110](https://www.jessewolcott.com/wp-content/uploads/2016/04/IMG_0110.jpg "IMG_0110.JPG")
+![IMG 4655](/assets/img/2016/04/IMG_4655.jpg)
+![IMG 0110](/assets/img/2016/04/IMG_0110.jpg)
 
 He stood for 2+ hours, which was a bit amazing, but dogs can’t calm down in those situations. He was super exhausted that night, but followed me around anyhow. We were in the kitchen, and he came and sat behind me, and his poor muscles were spasming like crazy. I got him on the ottoman and Laura gave him medication.
 
@@ -66,7 +67,7 @@ We didn’t hear from any potential adopters for a long time. I continued to pos
 
 Things were kind of business-as-usual for the next 2 years, honestly. I continued to work from home until late June 2018, when I got a job at a casino, and I wasn’t home all day. We decided to adopt him for real at this point, on July 10, 2018.
 
-[![](https://www.jessewolcott.com/wp-content/uploads/2019/06/37024698_10100177404292649_6578711955446431744_o.jpg)](https://www.jessewolcott.com/wp-content/uploads/2019/06/37024698_10100177404292649_6578711955446431744_o.jpg)
+![](/assets/img/2019/06/37024698_10100177404292649_6578711955446431744_o.jpg)
 
 Quincy transitioned through every life event that we threw at him seamlessly. We dealt with his quirks, and he returned the favor by being incredibly patient and exceptionally adaptable. As long as he was with me, he didn’t mind whatever was going on.
 

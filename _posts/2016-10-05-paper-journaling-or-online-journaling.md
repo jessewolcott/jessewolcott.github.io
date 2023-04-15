@@ -16,4 +16,4 @@ Quincy is still here, and he’s cute, but he’s a jerk to everyone but Laura a
 
 Picked up a DDR machine, and had a ton of fun fixing up the pads. Hopefully will knock together a quick tutorial (and post it here) for folks looking to flip their pads from trash to treasure. Mine weren’t all that bad, but I think most people don’t really know how good their pads are. I mean, my machine has 80k clicks on the coin box, but original sensors, as far as I can tell, and its one of the best machines I’ve played on, DDR A machines included. Feels good!
 
-![20160927 204154851 iOS](https://www.jessewolcott.com/wp-content/uploads/2016/10/20160927_204154851_iOS.jpg "20160927_204154851_iOS.jpg")
+![20160927 204154851 iOS](/assets/img/2016/10/20160927_204154851_iOS.jpg)

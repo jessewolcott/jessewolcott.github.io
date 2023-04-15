@@ -12,11 +12,11 @@ categories:
 
 I picked up a Neo Geo 4 slot at the request of a friend (lets call it a commission work, I guess?). It had a power supply in it that was rusty and dirty and loud as can be. It was this model:
 
-![IMG 20180226 104030](https://www.jessewolcott.com/wp-content/uploads/2018/02/IMG_20180226_104030.jpg "IMG_20180226_104030.jpg")
+![IMG 20180226 104030](/assets/img/2018/02/IMG_20180226_104030.jpg)
 
 Now, you can just go get a replacement for this, and thats what I did. Twisted Quarter still has them for $50 which is a spicy meatball if you’re trying to make a profit (especially since those dudes are seemingly incapable of shipping something for less than $15). So that sucks, but it is an option.
 
-![150 WATT POWER SUPPLY FOR KONAMI AND NEO GEO SNK GAMES  PS 44 1040 00  $49 99  TwistedQuarter com Arcade Parts Specialist 2018 02 26 10 47 27](https://www.jessewolcott.com/wp-content/uploads/2018/02/150-WATT-POWER-SUPPLY-FOR-KONAMI-AND-NEO-GEO-SNK-GAMES-PS-44-1040-00-49.99-TwistedQuarter.com-Arcade-Parts-Specialist-2018-02-26-10-47-27.png "150 WATT POWER SUPPLY FOR KONAMI AND NEO GEO SNK GAMES [PS-44-1040-00] - $49.99 : TwistedQuarter.com, Arcade Parts Specialist 2018-02-26 10-47-27.png")
+![150 WATT POWER SUPPLY](/assets/img/2018/02/150-WATT-POWER-SUPPLY-FOR-KONAMI-AND-NEO-GEO-SNK-GAMES-PS-44-1040-00-49.99-TwistedQuarter.com-Arcade-Parts-Specialist-2018-02-26-10-47-27.png)
 
 Since apparently 2018 is the year of rebuilding power supplies, here’s the cap list:
 

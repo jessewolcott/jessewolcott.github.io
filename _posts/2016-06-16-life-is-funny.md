@@ -12,7 +12,7 @@ categories:
 
 Today I saw a picture from an arcade in Great Yarmouth, UK
 
-![13435449 10157074598935541 560350361994278859 n](https://www.jessewolcott.com/wp-content/uploads/2016/06/13435449_10157074598935541_560350361994278859_n.jpg "13435449_10157074598935541_560350361994278859_n.jpg")
+![13435449 10157074598935541 560350361994278859 n](/assets/img/2016/06/13435449_10157074598935541_560350361994278859_n.jpg)
 
 I was immediately curious about how i could get those banners, because they are awesome. I then messaged several arcades in Great Yarmouth.
 
