@@ -18,13 +18,7 @@ So, of course, it’s a little… I don’t know… smug (might not be the best 
 
 For me, there was a politician with the name “Jesse P. Wolcott.” Haven’t looked him up enough to know his policies, or whether I should be outraged. As far as image searching (using Google Images), the following result:
 
-[http://s3.dmimg.com/pictures/users/309216/1317736592\_profile.jpg](http://s3.dmimg.com/pictures/users/309216/1317736592_profile.jpg)
-
-<http://a2.ec-images.myspacecdn.com/profile01/148/bb7496381cc948a0bc80770810455431/p.jpg>
-
-<https://lh4.googleusercontent.com/-W7eKbUFX2TE/TiCmqrFF1uI/AAAAAAAAAS0/wK0wiofx7pc/s250-c-k-no/Screen%2Bshot%2B2011-07-15%2Bat%2B4.44.09%2BPM.JPG>
-
-[https://lh6.googleusercontent.com/-ZsvzB8TJuLg/TrrXzj5eqPE/AAAAAAAAAOo/e8UkzCbBhVg/s0-d/MarsEditImages](https://lh6.googleusercontent.com/-ZsvzB8TJuLg/TrrXzj5eqPE/AAAAAAAAAOo/e8UkzCbBhVg/s0-d/MarsEditImages "https://lh6.googleusercontent.com/-ZsvzB8TJuLg/TrrXzj5eqPE/AAAAAAAAAOo/e8UkzCbBhVg/s0-d/MarsEditImages")
+**2023 edit: These links are all dead now!**
 
 Now, I’m going to let you just look at those, and take heed that I’ve done everything I can to “clean up” my presence online. Yet these got through! These are from MySpace (seriously, ugh!), Google Plus, and DailyMile.
 

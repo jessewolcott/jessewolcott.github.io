@@ -12,7 +12,7 @@ categories:
 
 I’m headed to the beaches of sunny Florida.
 
-![20130703-070124.jpg](/assets/img/uploads/2013/07/20130703-070124.jpg)
+![20130703-070124.jpg](/assets/img/2013/07/20130703-070124.jpg)
 I can’t be the only one who travels like this. My wife thought it was hilarious… Just another day for me.
 
 Additionally, I’m trying out the WordPress iOS apps, both iPhone and iPad, this week. My posts might be a bit shorter: text entry isn’t the strongest on these devices. The interesting part, so far, about the iOS app (iPhone, at least) is that it is code heavy. I added the image above, and I’m not sure if its supposed to do this, but it dumped the HTML code right into the post. I can’t imagine the good folks at WordPress actually mean for normal people to learn HTML!
