@@ -25,7 +25,8 @@ I will list a collection of sites at the end of this article that I used to assi
 8. Navigate to the API keys page, here: https://platform.openai.com/account/api-keys, and create a new secret key. Create a text file in your folder called "keys.py" and put your secret in there like so (take note of the single quotes): ```apptoken = 'yourkeygoesinhere'```.
 9. Create a file in your folder called ".gitignore". Inside of that file, put your keyfile in there(just put keys.py on the first line and hit save), so that it won't be uploaded to GitHub for the world to see. 
 10. Create a file in VSCode and call it "app.py". Put the following code in that file (this is lifted directly from beebom.com, fully recognized, we are adding more content later- All i did was move the keys). 
-```
+
+```python
 import openai
 import gradio
 import keys
@@ -53,6 +54,7 @@ gradio.Interface(fn=chatbot, inputs=inputs, outputs=outputs, title="AI Bot",
              description="Ask anything you want",
              theme="compact").launch(share=True)
 ```
+
 11. Back in your terminal, run your fancy new python script by running ```python "Path\to\app.py```
 12. When that runs, you'll see some URLs. You can play with your bot by going to one of those sites, like this one: http://127.0.0.1:7860. Its done! Woo! Lets dig in!
 ![Chatbot Lives!](/assets/img/2023/04/aichatbot1.png)
