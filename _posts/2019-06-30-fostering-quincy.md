@@ -85,4 +85,4 @@ Good night, Quincy. I can never repay you for what you’ve done for me. You tau
 
 You taught me how to be a better, more patient person. You got me ready for fatherhood, and stuck around just long enough to make sure I had it well in hand without you. I love you deeply, son. May the road rise up to meet you, until I see you again.
 
-<iframe frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/UMr839d1PI0" width="420"></iframe>
+<iframe frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/UMr839d1PI0" width="100%"></iframe>
