@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wordpress To Jekyll, Pt3 - The DNS
+title: LogicMonitor - Alert Rules and Escalation Chain Report
 author: Jesse Wolcott
 date: 2023-04-17 10:49:00 -04:00
 
