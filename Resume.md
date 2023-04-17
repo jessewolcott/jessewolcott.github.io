@@ -5,7 +5,7 @@ title: Resume
 
 ## <center><strong>Jesse Wolcott</strong></center>
 # <center>Baltimore, MD | jesse@jessewolcott.com</center>
-
+---
 #### Senior Systems Engineer - *2022 - Present*
 ##### Chesapeake Employers Insurance - Towson, MD
 
