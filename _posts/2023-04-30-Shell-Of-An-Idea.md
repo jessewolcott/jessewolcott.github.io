@@ -3,7 +3,7 @@ layout: post
 title: "Shell of an Idea: The Untold History of PowerShell"
 author: jesse.wolcott
 ---
-<center>![Shell of an Idea](/assets/img/2023/04/shellofanidea.jpg)</center>
+![Shell of an Idea](/assets/img/2023/04/shellofanidea.jpg)
 
 I finished reading a book called "Shell of an Idea: The Untold History of PowerShell" by Don Jones. The book covers the early start and near miss of the Powershell scripting language by Microsoft. I really enjoyed it!
 
