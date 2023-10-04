@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Semaglutide, Low Carb, and You (but me)
 author: jesse.wolcott
 ---
@@ -8,7 +8,7 @@ I have run an experiment, and it is (I think) an interesting one. The peptide Se
 
 ## The Goods
 
-GLP-1 agonists work by 
+GLP-1 agonists work by mimicing the natural hormone production tells us to stop eating. [Our friends at the Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/expert-answers/byetta/faq-20057955) describe it as ```These drugs mimic the action of a hormone called glucagon-like peptide 1. When blood sugar levels start to rise after someone eats, these drugs stimulate the body to produce more insulin. The extra insulin helps lower blood sugar levels. Lower blood sugar levels are helpful for controlling type 2 diabetes.```
 
 ## Before we start
 
@@ -68,11 +68,20 @@ I will update my dosages for Semaglutide as I go, but I am generally of the opin
 
 I'll be using some hardware to help measure my health and my progress. 
 
-- Withings Scale
-- Dexcom G6 CGM
-- [Kardia Mobile](https://store.kardia.com/products/kardiamobile)
-- Resmed Airsense 10 
-- Apple Watch
+##### Withings Scale
+The Withings Scale will be used to take daily weight measurements
+
+##### Dexcom G6 CGM
+I have elected to use a continuous glucose monitor because there is very little documentation of Keto / Low carb with GLP-1 agonists. I am looking for blood sugar being too low.
+##### Kardia Mobile
+[Kardia Mobile](https://store.kardia.com/products/kardiamobile) takes a 6-lead ECG for me each morning to test a variety of heart rhythm conditions
+
+##### Resmed Airsense 10 
+I have sleep apena. Not much to explain here!
+
+##### Apple Watch
+I use the Apple Watch Series 8 to monitor O2, heart rate, and activity throughout the day.
+
 
 #### Software
 
@@ -115,7 +124,7 @@ Vegetables and legumes as a good source of protein is a matter up for debate. Wh
 
 I started here: [Wikipedia](https://en.wikipedia.org/wiki/Protein_quality). 
 
-The lead driver of my decision is [Protein Efficiency Ratio](https://en.wikipedia.org/wiki/Protein_efficiency_ratio). While trying to maximize the density of protein per calorie, this is really the first stop. In this metric, we see that Egg, Whey and Beef are the most "worth it" in this metric. We can dig a little deeper to figure out which direction I should go. 
+The lead driver of my decision is [Protein Efficiency Ratio](https://en.wikipedia.org/wiki/Protein_efficiency_ratio). While trying to maximize the density of protein per calorie, this is really the first stop. In this metric, we see that Egg, Whey and Beef are the most "worth it" in this metric. We can dig a little deeper to figure out which direction I should go, but I'm fairly convinced.
 
 #### Nutritional Value
 
@@ -160,7 +169,21 @@ I mostly eat these things today. I am sure there will be some fast math with oth
 
 The most fascinating piece of the GLP-1 Agonist class of drugs has been the overwhelming reports that "The [food noise](https://www.health.com/food-noise-ozempic-wegovy-7555112) is gone". When I initially went carnivore (or mostly carnivore) in 2022, the most remarkable feature of the diet was the severe reduction of "food noise". It wasn't gone but it was severely diminished. 
 
-I have a blog post draft that I've been poking at on and off for about 6 months. The idea of "food noise" is insane to me, because for the entire length of humanity (until the last 100 years or so, and its still not globally true), if there was food in front of you, *you ate it, all of it, because tomorrow there is no food and you'll starve to death.* We evolved to store food during times of feast so that we didn't die during times of famine. Only in the modern era have we, effectively, evolved past hunger. That deserves more thought. I am not saying that being overweight is healthy... But it is a defense mechanism. At this point in history, we have never had more food that is more palatable. It tastes good because its engineered to taste good. On top of that, many foods offer very little in the way of nutrition, so the whole equation becomes: **We are eating endless amounts of the best tasting food and deriving very little nutrition from it, as a defense mechanism against starvation**. 
+I have a blog post that I published recent that I'd been poking at on and off for about 6 months. The idea of "food noise" is insane to me, because for the entire length of humanity (until the last 100 years or so, and its still not globally true), if there was food in front of you, *you ate it, all of it, because tomorrow there is no food and you'll starve to death.* We evolved to store food during times of feast so that we didn't die during times of famine. Only in the modern era have we, effectively, evolved past hunger. That deserves more thought. I am not saying that being overweight is healthy... But it is a defense mechanism. At this point in history, we have never had more food that is more palatable. It tastes good because its engineered to taste good. On top of that, many foods offer very little in the way of nutrition, so the whole equation becomes: **We are eating endless amounts of the best tasting food and deriving very little nutrition from it, as a defense mechanism against starvation**. 
 
-I have, of course, known about "food noise" for my whole life. Only recently have I taken to call it what it is: Compulsive Eating. I have never been diagnosed with Binge Eating Disorder, but the technical definition of compulsive eating fits me to a T. I often eat way more than I should, and when I'm on a mission, nothing is stopping me. Appetizer or two, entree, drinks, dessert. Compulsive. The most alluring piece of the GLP-1 agonist puzzle, for me, is the food noise silence. All of my weight loss trials and tribulations have been thwarted by it. 
+I have, of course, known about "food noise" for my whole life. Only recently have I taken to call it what it is: Compulsive Eating. I have never been diagnosed with Binge Eating Disorder, but the technical definition of compulsive eating fits me to a T. I often eat way more than I should, and when I'm on a mission, nothing is stopping me. Appetizer or two, entree, drinks, dessert. Compulsive. The most alluring piece of the GLP-1 agonist puzzle, for me, is the food noise silence. All of my weight loss trials and tribulations have been thwarted by it. It is painful to me to betray myself, and tnis is the most hopeful I've been about a drug helping me with that. 
+
+The mental challenge will be as hard as the physical challenge. My log of this experiment will include physical, mental, and emotional updates. My goal here is to utilize semaglutide to get into the best shape of my life. 
+
+## Daily Blog
+
+### October 2023
+
+#### October 4, 2023
+
+| Current Weight  | Sleep  |
+|-----------------|--------|
+| 246.3           | 06:27  |
+
+Still gathering materials, but starting the daily blog now. Diet has been on-track but calorie heavy for a few days now. I need to figure out how to aggregate the data in my daily posts, as well as my steps, weight, etc. I am tracking it in an Excel document for now. 
 
