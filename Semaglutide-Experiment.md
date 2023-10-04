@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Semaglutide, Low Carb, and You (but me)
+title: Semaglutide
 author: jesse.wolcott
 ---
+
+# Semaglutide, Low Carb, and You (but me)
 
 I have run an experiment, and it is (I think) an interesting one. The peptide Semaglutide (and its cousin Tirzepatide) have catapaulted into the collective consciousness in the past year or so, and potentially, for good reason. There are a lot of nay-sayers, and tons of people that say that it has changed their lives. There seems to be little middle-ground, and even less written about the "reality" of the drug. Maybe I can help. There are lots of considerations for this experience / expermient, and I'd like to set myself up for success, while gathering information to share with my little corner of the internet. It might just make interesting content. 
 
