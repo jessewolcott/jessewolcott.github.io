@@ -23,7 +23,7 @@ One thing that most "journey" posts do not do is establish a baseline. If you kn
 | Metric | Initial Measurement |
 |--------|---------------------|
 | Age    | 38                  |
-| Weight | 242 lbs             |
+| Weight | 246.3 lbs             |
 | Height | 5' 7"               |
 
 I have been weight training for many years, so it may be helpful to catalog my current 1-Rep-Max lifts to establish strength baseline:
@@ -173,7 +173,7 @@ The most fascinating piece of the GLP-1 Agonist class of drugs has been the over
 
 I have a blog post that I published recent that I'd been poking at on and off for about 6 months. The idea of "food noise" is insane to me, because for the entire length of humanity (until the last 100 years or so, and its still not globally true), if there was food in front of you, *you ate it, all of it, because tomorrow there is no food and you'll starve to death.* We evolved to store food during times of feast so that we didn't die during times of famine. Only in the modern era have we, effectively, evolved past hunger. That deserves more thought. I am not saying that being overweight is healthy... But it is a defense mechanism. At this point in history, we have never had more food that is more palatable. It tastes good because its engineered to taste good. On top of that, many foods offer very little in the way of nutrition, so the whole equation becomes: **We are eating endless amounts of the best tasting food and deriving very little nutrition from it, as a defense mechanism against starvation**. 
 
-I have, of course, known about "food noise" for my whole life. Only recently have I taken to call it what it is: Compulsive Eating. I have never been diagnosed with Binge Eating Disorder, but the technical definition of compulsive eating fits me to a T. I often eat way more than I should, and when I'm on a mission, nothing is stopping me. Appetizer or two, entree, drinks, dessert. Compulsive. The most alluring piece of the GLP-1 agonist puzzle, for me, is the food noise silence. All of my weight loss trials and tribulations have been thwarted by it. It is painful to me to betray myself, and tnis is the most hopeful I've been about a drug helping me with that. 
+I have, of course, known about "food noise" for my whole life. Only recently have I taken to call it what it is: Compulsive Eating. I have never been diagnosed with Binge Eating Disorder, but the technical definition of compulsive eating fits me to a T. I often eat way more than I should, and when I'm on a mission, nothing is stopping me. Appetizer or two, entree, drinks, dessert. Compulsive. The most alluring piece of the GLP-1 agonist puzzle, for me, is the food noise silence. All of my weight loss trials and tribulations have been thwarted by it. It is painful to me to betray myself, and this is the most hopeful I've been about a drug helping me with that. 
 
 The mental challenge will be as hard as the physical challenge. My log of this experiment will include physical, mental, and emotional updates. My goal here is to utilize semaglutide to get into the best shape of my life. 
 
@@ -183,9 +183,9 @@ The mental challenge will be as hard as the physical challenge. My log of this e
 
 #### October 4, 2023
 
-| Current Weight  | Sleep  |
-|-----------------|--------|
-| 246.3           | 06:27  |
+| Current Weight  | Sleep  | Semaglutide Dosage |
+|-----------------|--------|--------------------|
+| 246.3           | 06:27  | 0.0mg              |
 
 Still gathering materials, but starting the daily blog now. Diet has been on-track but calorie heavy for a few days now. I need to figure out how to aggregate the data in my daily posts, as well as my steps, weight, etc. I am tracking it in an Excel document for now. 
 
