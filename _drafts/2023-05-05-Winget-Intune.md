@@ -29,4 +29,6 @@ Each management platform will certainly have their own quirks, Microsoft's own I
         - Uninstall script
         - Detection script
 
-Winget doesn't change this at all. The main difference is that we now have to consider versions and updates as a process. The difference in the process comes in the package updating process. Using Intune's "Proactive Remediations", we can execute a version check and update whatever is required. In my example, Adobe Acrobat is updated and checked for updates against the package in Winget's currently published version. 
+Winget doesn't change this at all. The main difference is that we now have to consider versions and updates as a process. The difference in the process comes in the package updating process. 
+
+Using Intune's "Proactive Remediations", we can execute a version check and update whatever is required. In my example, Adobe Acrobat is updated and checked for updates against the package in Winget's currently published version. 
