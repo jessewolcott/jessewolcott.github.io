@@ -23,7 +23,7 @@ One thing that most "journey" posts do not do is establish a baseline. If you kn
 | Metric | Initial Measurement |
 |--------|---------------------|
 | Age    | 38                  |
-| Weight | 246.3 lbs             |
+| Weight | 245 lbs             |
 | Height | 5' 7"               |
 
 I have been weight training for many years, so it may be helpful to catalog my current 1-Rep-Max lifts to establish strength baseline:
@@ -181,11 +181,11 @@ The mental challenge will be as hard as the physical challenge. My log of this e
 
 ### October 2023
 
-#### October 4, 2023
+#### October 13, 2023
 
 | Current Weight  | Sleep  | Semaglutide Dosage |
 |-----------------|--------|--------------------|
-| 246.3           | 06:27  | 0.0mg              |
+| 245.4           | 04:30  | 0.25mg             |
 
-Still gathering materials, but starting the daily blog now. Diet has been on-track but calorie heavy for a few days now. I need to figure out how to aggregate the data in my daily posts, as well as my steps, weight, etc. I am tracking it in an Excel document for now. 
+The experiment begins! I had my DEXA Scan today, it showed that I am at 30.4% body fat.
 
