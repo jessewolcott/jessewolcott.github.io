@@ -1,0 +1,11 @@
+---
+layout: post
+title: Static Site Generator Generator
+author: jesse.wolcott
+---
+
+What do you do when you're mad that something doesn't exist? Build it yourself. Peptides are all the rage, and in case you're coming from behind on this, there are a bunch of chemicals that are effectively (but not technically) medications that you can inject or otherwise administer that do... things. The FDA has not approved these for use in humans and wherever you buy them, they are "for research purposes only". Sketchy, right? Well, there are a few fairly popular ones that you may have heard of... Ozempic, wegovy, mounjaro, rybellsys? These have taken the world by storm. 
+
+There are loads of these chemicals out there, and there are few concrete resources about how / where / why to use these things. There are a few poorly formatted PDFs (Dr. Seeds Peptide Protocol) and some shared Google Documents out there that can assist with "What do I take" at large, but they are all sorta... outdated and stupid. So, hey, why not make my own? 
+
+I started out with one of the terrible peptide google sheets, and asked AI if there were any static site generators that excelled at tabular data. I made a feeble attempt at forcing Jekyll to do it, since I have some experience with Jekyll (this very website runs on it), and it was not great. The table was challenging to manage, and not very workable. In addition, as soon as there is sufficient data in a table, Markdown really falls apart. AI didn't have a lot of great answers for me, but pointed me towards a framework called [Tabulator](https://tabulator.info). This seems like it will work well, but obviously, its "hand coded". Bespoke. I bumbled through the creation of the first few records, and challenged myself to present the data in a way that would be useful to me, and potentially to others, as well as extensible. It took me an embarrasingly long time to realize that the data table format being written by my own stupid hands is just JSON. Thankfully, I didn't complete the entire task before realizing it! So now, at least, I know I can swap back and forth from JSON to CSV to make the data a LOT easier to manage. It isn't a full site, but it is imminently manageable. 
