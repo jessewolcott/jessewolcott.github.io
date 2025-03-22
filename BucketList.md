@@ -6,6 +6,9 @@ title: Bucket List
 I love to plan vacations, and when I do so, I plan them around specific bucket-list items. I don't travel constantly, so I like to make sure that when I do, it counts. 
 
 ## USA
+
+## New England
+* Salem Cross Inn fireside dinner followed by New Haven Pizza stop 
 ### North Carolina
 * Catawba Falls
 
