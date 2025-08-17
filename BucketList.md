@@ -15,5 +15,10 @@ I love to plan vacations, and when I do so, I plan them around specific bucket-l
 ### Tennessee
 * Lost Sea Adventure, Sweetwater, TN - Largest underground lake in the US
 
+## Brazil
+
+# Brumenau
+* Brumenau Oktoberfest!
+
 ## Iceland
 * Grimsey - Orbis et Globus - 7 ton metal ball that marks the Arctic Circle. Moves 14 meters every year, and will be out to sea in less than 20.
