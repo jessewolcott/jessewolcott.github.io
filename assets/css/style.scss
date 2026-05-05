@@ -1,7 +1,134 @@
 ---
 ---
 
+// ─── Dark theme variable overrides (must come before @import) ────
+$text-color:       #e0e0e0;
+$background-color: #111111;
+$brand-color:      #5c9cf5;
+$grey-color:       #888888;
+$grey-color-light: #222222;
+$grey-color-dark:  #bbbbbb;
+
 @import "minima";
+
+// ─── Global ──────────────────────────────────────────────────────
+
+body {
+  background-color: #111111;
+  color: #e0e0e0;
+}
+
+a {
+  color: #5c9cf5;
+  &:visited { color: #8ab4f8; }
+  &:hover   { color: #90c2ff; text-decoration: underline; }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #f0f0f0;
+}
+
+hr {
+  border-color: #222;
+}
+
+blockquote {
+  color: #999;
+  border-left-color: #333;
+}
+
+// ─── Code ────────────────────────────────────────────────────────
+
+pre, code {
+  background-color: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  color: #e0e0e0;
+}
+
+pre > code {
+  border: none;
+}
+
+// ─── Tables ──────────────────────────────────────────────────────
+
+table {
+  th {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    border-color: #2a2a2a;
+  }
+  td {
+    border-color: #2a2a2a;
+  }
+  tr:nth-child(even) {
+    background-color: #161616;
+  }
+}
+
+// ─── Header ──────────────────────────────────────────────────────
+
+.site-header {
+  background-color: #0d0d0d;
+  border-top: 4px solid #5c9cf5;
+  border-bottom: 1px solid #222;
+}
+
+.site-title,
+.site-title:visited {
+  color: #f0f0f0;
+  &:hover { color: #fff; text-decoration: none; }
+}
+
+.site-nav {
+  .page-link {
+    color: #ccc;
+    &:hover { color: #fff; }
+  }
+  .menu-icon > svg path {
+    fill: #ccc;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    .page-link { color: #e0e0e0; }
+  }
+}
+
+// ─── Footer ──────────────────────────────────────────────────────
+
+.site-footer {
+  background-color: #0d0d0d;
+  border-top: 1px solid #222;
+  color: #666;
+
+  .footer-col {
+    color: #666;
+  }
+
+  a {
+    color: #888;
+    &:hover { color: #ccc; }
+  }
+}
+
+// ─── Post & Page content ─────────────────────────────────────────
+
+.post-title,
+.page-heading {
+  color: #f0f0f0;
+}
+
+.post-meta {
+  color: #666;
+}
+
+.post-content,
+.page-content {
+  color: #e0e0e0;
+}
 
 // ─── Landing Page ────────────────────────────────────────────────
 
@@ -23,27 +150,28 @@
   object-fit: cover;
   margin: 0 auto 20px;
   display: block;
-  border: 3px solid #e8e8e8;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  border: 3px solid #2a2a2a;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6);
 }
 
 .landing-name {
   font-size: 2rem;
-  font-weight: 400;
-  letter-spacing: 0.05em;
+  font-weight: 300;
+  letter-spacing: 0.1em;
   margin: 0 0 8px;
   border: none;
+  color: #f0f0f0;
 }
 
 .landing-tagline {
   font-size: 1.05rem;
-  color: #555;
+  color: #aaa;
   margin: 0 0 4px;
 }
 
 .landing-location {
   font-size: 0.9rem;
-  color: #999;
+  color: #555;
   margin: 0;
 }
 
@@ -56,32 +184,38 @@
 .landing-link {
   display: block;
   padding: 14px 20px;
-  background: rgba(42, 122, 226, 0.07);
-  border: 1px solid rgba(42, 122, 226, 0.2);
+  background: rgba(92, 156, 245, 0.08);
+  border: 1px solid rgba(92, 156, 245, 0.2);
   border-radius: 10px;
-  color: #333;
+  color: #e0e0e0;
   font-size: 1rem;
   text-decoration: none;
   transition: background 0.15s, border-color 0.15s;
 
   &:hover {
-    background: rgba(42, 122, 226, 0.15);
-    border-color: rgba(42, 122, 226, 0.4);
-    color: #111;
+    background: rgba(92, 156, 245, 0.18);
+    border-color: rgba(92, 156, 245, 0.45);
+    color: #fff;
     text-decoration: none;
+  }
+
+  &:visited {
+    color: #e0e0e0;
   }
 }
 
 .landing-link--cta {
-  background: #2a7ae2;
-  border-color: #2a7ae2;
+  background: #2a5ebd;
+  border-color: #2a5ebd;
   color: #fff;
   font-weight: 600;
   margin-top: 8px;
 
+  &:visited { color: #fff; }
+
   &:hover {
-    background: #1a5ab8;
-    border-color: #1a5ab8;
+    background: #3a72d8;
+    border-color: #3a72d8;
     color: #fff;
   }
 }
@@ -91,7 +225,7 @@
 .post-preview {
   margin-bottom: 40px;
   padding-bottom: 40px;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #222;
 
   &:last-of-type {
     border-bottom: none;
@@ -103,17 +237,16 @@
   margin-bottom: 4px;
 
   a {
-    color: #111;
+    color: #f0f0f0;
     text-decoration: none;
 
-    &:hover {
-      color: #2a7ae2;
-    }
+    &:visited { color: #c0c0c0; }
+    &:hover   { color: #5c9cf5; text-decoration: none; }
   }
 }
 
 .post-preview-date {
-  color: #828282;
+  color: #555;
   font-size: 0.85rem;
   margin-bottom: 10px;
 }
@@ -131,15 +264,15 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 0;
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #222;
   margin-top: 20px;
 }
 
 .pagination-disabled {
-  color: #ccc;
+  color: #333;
 }
 
 .pagination-info {
-  color: #828282;
+  color: #555;
   font-size: 0.9rem;
 }
