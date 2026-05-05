@@ -136,20 +136,28 @@ table {
   max-width: 480px;
   margin: 60px auto;
   padding: 0 20px;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .landing-hero {
   margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
 }
 
 .landing-photo {
-  width: 120px;
-  height: 120px;
+  width: clamp(100px, 25vw, 150px);
+  height: clamp(100px, 25vw, 150px);
   border-radius: 50%;
   object-fit: cover;
-  margin: 0 auto 20px;
+  object-position: center;
   display: block;
+  flex-shrink: 0;
+  margin: 0 auto 20px;
   border: 3px solid #2a2a2a;
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6);
 }
