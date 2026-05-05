@@ -1,0 +1,145 @@
+---
+---
+
+@import "minima";
+
+// ─── Landing Page ────────────────────────────────────────────────
+
+.landing {
+  max-width: 480px;
+  margin: 60px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.landing-hero {
+  margin-bottom: 40px;
+}
+
+.landing-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 20px;
+  display: block;
+  border: 3px solid #e8e8e8;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.landing-name {
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin: 0 0 8px;
+  border: none;
+}
+
+.landing-tagline {
+  font-size: 1.05rem;
+  color: #555;
+  margin: 0 0 4px;
+}
+
+.landing-location {
+  font-size: 0.9rem;
+  color: #999;
+  margin: 0;
+}
+
+.landing-links {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.landing-link {
+  display: block;
+  padding: 14px 20px;
+  background: rgba(42, 122, 226, 0.07);
+  border: 1px solid rgba(42, 122, 226, 0.2);
+  border-radius: 10px;
+  color: #333;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+
+  &:hover {
+    background: rgba(42, 122, 226, 0.15);
+    border-color: rgba(42, 122, 226, 0.4);
+    color: #111;
+    text-decoration: none;
+  }
+}
+
+.landing-link--cta {
+  background: #2a7ae2;
+  border-color: #2a7ae2;
+  color: #fff;
+  font-weight: 600;
+  margin-top: 8px;
+
+  &:hover {
+    background: #1a5ab8;
+    border-color: #1a5ab8;
+    color: #fff;
+  }
+}
+
+// ─── Blog Listing ────────────────────────────────────────────────
+
+.post-preview {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #e8e8e8;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+}
+
+.post-preview-title {
+  font-size: 1.5rem;
+  margin-bottom: 4px;
+
+  a {
+    color: #111;
+    text-decoration: none;
+
+    &:hover {
+      color: #2a7ae2;
+    }
+  }
+}
+
+.post-preview-date {
+  color: #828282;
+  font-size: 0.85rem;
+  margin-bottom: 10px;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.9rem;
+}
+
+// ─── Pagination ──────────────────────────────────────────────────
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  border-top: 1px solid #e8e8e8;
+  margin-top: 20px;
+}
+
+.pagination-disabled {
+  color: #ccc;
+}
+
+.pagination-info {
+  color: #828282;
+  font-size: 0.9rem;
+}

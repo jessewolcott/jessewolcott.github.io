@@ -1,38 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
 
-{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <!--<span class="date">{{ post.date }}</span>-->
-    <span class="date">{{ post.date | date: date_format }}</span>
-  </p>
-  <div class="content">
-    {{ post.excerpt }}
-    {% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-{% endif %} 
-
+<div class="landing">
+  <div class="landing-hero">
+    <img class="landing-photo" src="https://github.com/jessewolcott.png" alt="Jesse Wolcott">
+    <h1 class="landing-name">Jesse Wolcott</h1>
+    <p class="landing-tagline">IT Leadership &amp; Chicken Fanatic</p>
+    <p class="landing-location">Baltimore, MD</p>
   </div>
-{% endfor %}
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+  <nav class="landing-links">
+    <a class="landing-link" href="https://www.linkedin.com/in/jessewolcott/" target="_blank" rel="noopener">LinkedIn</a>
+    <a class="landing-link" href="https://github.com/jessewolcott/" target="_blank" rel="noopener">GitHub</a>
+    <a class="landing-link" href="mailto:jesse@jessewolcott.com">Email</a>
+    <a class="landing-link" href="/vcard.vcf">Download vCard</a>
+    <a class="landing-link landing-link--cta" href="/blog/">Read my Blog &rarr;</a>
+  </nav>
 </div>

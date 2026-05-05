@@ -29,6 +29,12 @@ github_username:  jessewolcott
 linkedin_username: jessewolcott
 
 paginate: 10
+paginate_path: /blog/page:num/
+
+header_pages:
+  - blog/index.html
+  - BucketList.md
+  - CurrentMusic.md
 
 defaults:
   - scope:

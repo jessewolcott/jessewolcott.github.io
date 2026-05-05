@@ -1,0 +1,32 @@
+---
+layout: home
+title: Blog
+---
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+{% for post in paginator.posts %}
+<article class="post-preview">
+  <h2 class="post-preview-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="post-preview-date">{{ post.date | date: date_format }}</p>
+  <div class="post-preview-excerpt">
+    {{ post.excerpt }}
+    {% if post.excerpt != post.content %}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more &rarr;</a>
+    {% endif %}
+  </div>
+</article>
+{% endfor %}
+
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="pagination-prev">&larr; Newer</a>
+  {% else %}
+    <span class="pagination-prev pagination-disabled">&larr; Newer</span>
+  {% endif %}
+  <span class="pagination-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="pagination-next">Older &rarr;</a>
+  {% else %}
+    <span class="pagination-next pagination-disabled">Older &rarr;</span>
+  {% endif %}
+</nav>
